@@ -1,0 +1,2 @@
+job,marital,education,housing,loan,contact,poutcome,age,campaign,pdays,previous,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,Prediction,timestamp
+admin.,divorced,basic.4y,no,no,cellular,failure,0,0,0,0,0,0,0,0,0,"{""label"": ""yes"", ""confidences"": [{""label"": ""yes"", ""confidence"": 0.5107731819152832}, {""label"": ""no"", ""confidence"": 0.4892268180847168}]}",2025-09-18 11:05:04.922468
